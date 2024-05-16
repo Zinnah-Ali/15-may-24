@@ -1,0 +1,4 @@
+project link: https://mirexo.shop/
+login link  :https://mirexo.shop/wp-admin/?temp-login-token=b5a5aab714a796c93d6db50876820ac81269dc1ae5c5c4782294c20dba56d179&tl-site=52eb9277c7b57074
+
+Product page design, cart page, checkout page design, my-account page. all issues solved

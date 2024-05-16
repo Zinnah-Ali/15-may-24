@@ -1,0 +1,61 @@
+/* Elementor add to cart */
+selector th, selector select{
+    text-align: center;
+}
+
+/* Theme file css */
+/*Single Product Page design*/
+.woocommerce-js div.product div.images .flex-control-thumbs li img {
+    cursor: inherit;
+    opacity: 1 !important;
+}
+ .flex-viewport {
+    display: none;
+}
+a.woocommerce-product-gallery__trigger {
+    display: none;
+}
+
+ol.flex-control-nav.flex-control-thumbs {
+    display: grid;
+    grid-template-columns: 50% auto;
+}
+
+
+.woocommerce-js div.product div.woocommerce-product-gallery--columns-4 .flex-control-thumbs li {
+    width: 100%;
+}
+
+input[type="text"], input[type="number"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type=reset], input[type=tel], input[type=date], select {
+    height: inherit;
+}
+
+.woolentor-checkout__logo {
+    width: 120px;
+}
+
+
+
+
+/* Minuse Plus button */
+input[name="quantity"] {
+    width: 100% !important;
+}
+.single_variation_wrap {
+    position: relative;
+}
+button.plus {
+    max-width: 20%;
+}
+button.minus {
+    position: absolute;
+    padding: 9px 20px;
+		border-radius: 2px 0 0 2px !important;
+}
+button.plus {
+    position: absolute;
+    right: 0;
+	margin-top: 0 !important;
+	padding: 9px 20px;
+	border-radius: 2px 0 0 2px !important;
+}
